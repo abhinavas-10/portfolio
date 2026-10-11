@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhinav-portfolio-sooty-two.vercel.app/sitemap.xml

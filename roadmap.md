@@ -1,0 +1,7 @@
+- [x] Replace all personal, project, and contact placeholders
+- [x] Refine hero CTAs and graceful reel fallback
+- [x] Add /work/phishield case study route
+- [x] Harden resume, navigation, themes, and reduced motion
+- [x] Verify links, themes, preloader, routes, and responsive layouts
+- [x] Finish general refinement: consistent spacing, active section navigation, interaction states, theme contrast, mobile overflow, and responsive checks
+- [x] Remove AI/template visual tells while preserving the established portfolio design and functionality

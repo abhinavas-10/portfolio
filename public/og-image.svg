@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">ABHINAV A S — Software Developer</title>
+  <desc id="desc">ABHINAV A S, Software Developer, AI and Data Science portfolio</desc>
+  <rect width="1200" height="630" fill="#151613"/>
+  <path d="M0 512H1200" stroke="#b8ed36" stroke-width="2" opacity=".7"/>
+  <path d="M870 0v630M1010 0v630" stroke="#b8ed36" stroke-width="1" opacity=".14"/>
+  <text x="76" y="96" fill="#b8ed36" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="4">AAS / PORTFOLIO</text>
+  <text x="76" y="335" fill="#f2f1ec" font-family="Arial, Helvetica, sans-serif" font-size="106" font-weight="800" letter-spacing="-2">ABHINAV A S</text>
+  <text x="80" y="408" fill="#b8ed36" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="2">SOFTWARE DEVELOPER | AI &amp; DATA SCIENCE</text>
+  <text x="80" y="558" fill="#f2f1ec" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">PYTHON · AI · FULL-STACK DEVELOPMENT</text>
+</svg>
